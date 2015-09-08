@@ -6,8 +6,8 @@ describe('validateGameType', function() {
 	it('should exist', function() {
 		expect(gameFunctions.validateGameType).not.to.be.undefined;
 	});
-	it('should return false if a number 1 is passed in', function() {
-		expect(gameFunctions.validateGameType(1)).to.be.false;
+	it('should return 1 if a number 1 is passed in', function() {
+		expect(gameFunctions.validateGameType(1)).to.equal(1);
 	});
 	it('should return false if an array is passed in', function() {
 		expect(gameFunctions.validateGameType(['a', 'b', 'c'])).to.be.false;
