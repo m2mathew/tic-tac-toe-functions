@@ -1,5 +1,7 @@
 # Tic-Tac-Toe with Functions
 
+
+
 ## Description
 Implement the functions for a tic tac toe game
 
@@ -60,7 +62,3 @@ You will need to run the `npm install` command to install all of the necessary d
 You can test to see if the function is working as expected by running the command `npm test`. This will run through the unit tests and let you know if anything is failing a test. When you begin everything will be failing. As you complete the functions, the tests should start to pass.
 
 You can play the actual game by running the command `node scripts/main.js`.
-
-## Additional Resources
-
-* Read []()
