@@ -1,6 +1,8 @@
 # Tic-Tac-Toe with Functions
 
+Assignment from The Iron Yard-Austin
 
+Week 2 - day 9
 
 ## Description
 Implement the functions for a tic tac toe game
